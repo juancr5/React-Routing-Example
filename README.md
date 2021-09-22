@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# React-Routing-Example
+
+## Npm Install
+
+```
+npm install react-router-dom
+```
+
+## Into the code
+
+```
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+```
+
 
 ## Bootstrap Link
 
